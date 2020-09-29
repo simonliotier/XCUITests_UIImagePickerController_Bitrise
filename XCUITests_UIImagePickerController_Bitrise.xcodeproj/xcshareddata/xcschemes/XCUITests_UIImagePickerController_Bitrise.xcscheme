@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1200"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1A33F63125236DBC00AE6061"
+               BuildableName = "XCUITests_UIImagePickerController_Bitrise.app"
+               BlueprintName = "XCUITests_UIImagePickerController_Bitrise"
+               ReferencedContainer = "container:XCUITests_UIImagePickerController_Bitrise.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1A33F64725236DBE00AE6061"
+               BuildableName = "XCUITests_UIImagePickerController_BitriseTests.xctest"
+               BlueprintName = "XCUITests_UIImagePickerController_BitriseTests"
+               ReferencedContainer = "container:XCUITests_UIImagePickerController_Bitrise.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1A33F65225236DBE00AE6061"
+               BuildableName = "XCUITests_UIImagePickerController_BitriseUITests.xctest"
+               BlueprintName = "XCUITests_UIImagePickerController_BitriseUITests"
+               ReferencedContainer = "container:XCUITests_UIImagePickerController_Bitrise.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1A33F63125236DBC00AE6061"
+            BuildableName = "XCUITests_UIImagePickerController_Bitrise.app"
+            BlueprintName = "XCUITests_UIImagePickerController_Bitrise"
+            ReferencedContainer = "container:XCUITests_UIImagePickerController_Bitrise.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1A33F63125236DBC00AE6061"
+            BuildableName = "XCUITests_UIImagePickerController_Bitrise.app"
+            BlueprintName = "XCUITests_UIImagePickerController_Bitrise"
+            ReferencedContainer = "container:XCUITests_UIImagePickerController_Bitrise.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
